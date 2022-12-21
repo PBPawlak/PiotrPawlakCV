@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.phone-number{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+
+.top-container{
+    background-color: aliceblue;
+    padding-top: 150px;
+}
+
+.profile-pic{
+    width: 20%;
+}
+
+.python{
+    width: 20%;
+}
+
+.weights{
+    width: 20%;
+}
